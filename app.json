@@ -1,0 +1,25 @@
+{
+  "name": "BAN ALL BOT",
+  "description": "Ban All Bot To Ban Members",
+  "logo": "https://telegra.ph/file/75229ba894ef780332815.jpg",
+    "keywords": [
+    "telegram",
+    "userbot",
+    "plugin",
+    "modular",
+    "productivity"
+  ],
+  "repository": "https://github.com/H1M4N5HU0P/",
+  "website": "https://github.com/H1M4N5HU0P/",
+  "success_url": "https://t.me/MafiaBot_Support",
+  "env": {
+    "BAN_ALL_BOT": {
+      "description": "To Ban All Members ",
+      "value": "OK VAII"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+  }]
+}
